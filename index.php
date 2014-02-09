@@ -12,7 +12,7 @@ if ($input = file_get_contents('php://input')) {
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="initial-scale=1" />
-<title>Base64 Encode File</title>
+<title>Base64 Encode</title>
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.1.0/css/bootstrap.min.css" />
 <style>
 
@@ -46,7 +46,7 @@ if ($input = file_get_contents('php://input')) {
 	<div class="container">
 
 		<div class="page-header">
-			<h1>Base64 Encode File</h1>
+			<h1>Base64 Encode</h1>
 		</div>
 
 		<p class="lead">Drop file anywhere to base64 encode.</p>
