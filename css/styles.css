@@ -1,0 +1,19 @@
+.container {
+    width: auto;
+    max-width: 600px;
+}
+
+.input-group {
+    width: 100%;
+}
+
+.results {
+    margin: 20px 0;
+    padding: 10px;
+    width: 100%;
+    font-family: 'Monaco', monospace;
+    font-size: 1.2rem;
+    line-height: 1.3em;
+    resize: none;
+    cursor: default;
+}
